@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv
+.idea/
+htmlcov
+.coverage
+MANIFEST
+.DS_Store
+dist
+build
+django_database_postgresql_aad_backend.egg-info
